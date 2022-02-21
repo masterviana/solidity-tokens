@@ -5,6 +5,31 @@ contains solidity contract tokens ERC20, ERC721 and ERC1155
 
 <br />
 
+<table>
+<tr>
+<td> Status </td> <td> Response </td>
+</tr>
+<tr>
+<td> 200 </td>
+<td>
+    [0x28...519](https://etherscan.io/address/0x2823589Ae095D99bD64dEeA80B4690313e2fB519#code)
+</td>
+</tr>
+<tr>
+<td> 500 </td>
+<td>
+Internal Server Error    
+</td>
+</tr>
+</table>
+
+
+
+<hr />
+
+
+<br />
+
 # Testnet Ether Faucets
 
 Testnet   | Explorers                     | Testnet ETH Faucets
