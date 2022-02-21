@@ -1,6 +1,6 @@
 # Solidity Tokens
 
-This repo have multiple token formats for test purposes, its an ERC20, ERC721 and ERC1155 deployed over multiple chain's. 
+This repo have multiple token formats for test purposes, its an [ERC20](#ERC20), [ERC721](#ERC721) and ERC1155 deployed over multiple chain's. 
 
 To mint each of the token go to blockchain explorer using the below table then use method mint() with 0 on the parameter this will mint any of the token to your wallet. 
 
@@ -8,8 +8,6 @@ You will need some ethers (ETH) to pay for the network transaction fees. See [Te
 
 
 # ERC20
-
-<br />
 
 <br />
 
