@@ -24,6 +24,14 @@ Symbol | Decimals | Faucet Drip Rate | [Mumbai](https://mumbai.polygonscan.com/)
 
 [0xF76...F55](https://mumbai.polygonscan.com/address/0xF76656D311b8be898c609A992A7d22f653447F55#code)
 
+Testnet   | Explorers                     | 
+:-------- |:----------------------------- |
+mumbai   | [0xF76...F55](https://mumbai.polygonscan.com/address/0xF76656D311b8be898c609A992A7d22f653447F55#code)|
+mumbai   | [0xF76...F55](https://mumbai.polygonscan.com/address/0xF76656D311b8be898c609A992A7d22f653447F55#code)|
+mumbai   | https://rinkeby.etherscan.io/ | 
+mumbai   | https://goerli.etherscan.io/  | 
+mumbai   | https://mumbai.polygonscan.com/ | 
+
 
 # ERC1155
 
