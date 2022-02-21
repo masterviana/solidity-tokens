@@ -22,6 +22,8 @@ Symbol | Decimals | Faucet Drip Rate | [Mumbai](https://mumbai.polygonscan.com/)
 
 For minting a randon NFT use table below then click method mint() it mint a random NFT for your wallet
 
+Its possible to explore your collection using opensea interface : https://testnets.opensea.io/collection/demonstrating-collection-for-tests-purposes-by-m-1
+
 Testnet   | Explorers                     | 
 :-------- |:----------------------------- |
 mumbai   | [0xF76...F55](https://mumbai.polygonscan.com/address/0xf601c5489beaCFDB3F318B229114253F7111fA41#code)|
@@ -32,6 +34,9 @@ mumbai   | [0xF76...F55](https://mumbai.polygonscan.com/address/0xf601c5489beaCF
 # ERC1155
 
 For minting a randon NFT use table below then click method mint() it mint a random NFT for your wallet
+
+Its possible to explore your collection using opensea interface : https://testnets.opensea.io/collection/demonstrating-collection-for-tests-purposes-by-m-2
+
 
 Testnet   | Explorers                     | 
 :-------- |:----------------------------- |
