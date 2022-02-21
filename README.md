@@ -1,8 +1,12 @@
-# solidity-tokens
-contains solidity contract tokens ERC20, ERC721 and ERC1155
+# Solidity Tokens
+
+This repo have multiple token formats for test purposes, its an ERC20, ERC721 and ERC1155 deployed over multiple chain's.
+
+You will need some ethers (ETH) to pay for the network transaction fees. See [Testnet Ether Faucets](#testnet-ether-faucets) below to obtain testnet ethers.
 
 
-[0x101848D5](https://ropsten.etherscan.io/address/0x101848D5C5bBca18E6b4431eEdF6B95E9ADF82FA#code) 
+# ERC20
+
 
 
 <br />
@@ -14,8 +18,13 @@ Symbol | Decimals | Faucet Drip Rate | [Mumbai](https://mumbai.polygonscan.com/)
 [IO](contracts/erc20.sol) | 18 | 10 | [0x93..f44](https://mumbai.polygonscan.com/address/0x93cdc98317A07e83a9AA96F69AdA7Af4b37EBf44#code) | [0x93..f44](https://mumbai.polygonscan.com/address/0x93cdc98317A07e83a9AA96F69AdA7Af4b37EBf44#code) | [0x93..f44](https://mumbai.polygonscan.com/address/0x93cdc98317A07e83a9AA96F69AdA7Af4b37EBf44#code) | [0x93..f44](https://mumbai.polygonscan.com/address/0x93cdc98317A07e83a9AA96F69AdA7Af4b37EBf44#code) | [0x93..f44](https://mumbai.polygonscan.com/address/0x93cdc98317A07e83a9AA96F69AdA7Af4b37EBf44#code) | [0x93..f44]
 
 
-
 <hr />
+
+# ERC721
+
+# ERC1155
+
+
 
 
 <br />
