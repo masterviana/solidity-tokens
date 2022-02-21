@@ -1,13 +1,13 @@
 # Solidity Tokens
 
-This repo have multiple token formats for test purposes, its an ERC20, ERC721 and ERC1155 deployed over multiple chain's.
+This repo have multiple token formats for test purposes, its an ERC20, ERC721 and ERC1155 deployed over multiple chain's. 
+
+To mint each of the token go to blockchain explorer using the below table then use method mint() with 0 on the parameter this will mint any of the token to your wallet. 
 
 You will need some ethers (ETH) to pay for the network transaction fees. See [Testnet Ether Faucets](#testnet-ether-faucets) below to obtain testnet ethers.
 
 
 # ERC20
-
-
 
 <br />
 
@@ -21,6 +21,7 @@ Symbol | Decimals | Faucet Drip Rate | [Mumbai](https://mumbai.polygonscan.com/)
 <hr />
 
 # ERC721
+
 
 # ERC1155
 
