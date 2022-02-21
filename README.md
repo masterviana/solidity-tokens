@@ -10,7 +10,7 @@ contains solidity contract tokens ERC20, ERC721 and ERC1155
 <br />
 
 Symbol | Decimals | Faucet Drip Rate | [Mumbai](https://mumbai.polygonscan.com/) | [Ropsten](https://ropsten.etherscan.io/) |  [Kovan](https://kovan.etherscan.io/) | [Rinkeby](https://rinkeby.etherscan.io/) | [Görli](https://goerli.etherscan.io/)  
-:----- | --------:| ----------------:|:------- |:------- |:------- |:----- |:----- |:-----
+:----- | --------:| ----------------:|:------- |:------- |:------- |:----- |:-----
 [IO](contracts/erc20.sol) | 18 | 10 | [0x93..f44](https://mumbai.polygonscan.com/address/0x93cdc98317A07e83a9AA96F69AdA7Af4b37EBf44#code) | [0x93..f44](https://mumbai.polygonscan.com/address/0x93cdc98317A07e83a9AA96F69AdA7Af4b37EBf44#code) | [0x93..f44](https://mumbai.polygonscan.com/address/0x93cdc98317A07e83a9AA96F69AdA7Af4b37EBf44#code) | [0x93..f44](https://mumbai.polygonscan.com/address/0x93cdc98317A07e83a9AA96F69AdA7Af4b37EBf44#code) | [0x93..f44](https://mumbai.polygonscan.com/address/0x93cdc98317A07e83a9AA96F69AdA7Af4b37EBf44#code) | [0x93..f44]
 
 
