@@ -22,19 +22,28 @@ Symbol | Decimals | Faucet Drip Rate | [Mumbai](https://mumbai.polygonscan.com/)
 
 # ERC721
 
-[0xF76...F55](https://mumbai.polygonscan.com/address/0xF76656D311b8be898c609A992A7d22f653447F55#code)
+For minting a randon NFT use table below then click method mint() it mint a random NFT for your wallet
 
 Testnet   | Explorers                     | 
 :-------- |:----------------------------- |
 mumbai   | [0xF76...F55](https://mumbai.polygonscan.com/address/0xF76656D311b8be898c609A992A7d22f653447F55#code)|
 mumbai   | [0xF76...F55](https://mumbai.polygonscan.com/address/0xF76656D311b8be898c609A992A7d22f653447F55#code)|
-mumbai   | https://rinkeby.etherscan.io/ | 
-mumbai   | https://goerli.etherscan.io/  | 
-mumbai   | https://mumbai.polygonscan.com/ | 
+mumbai   | [0xF76...F55](https://mumbai.polygonscan.com/address/0xF76656D311b8be898c609A992A7d22f653447F55#code)| 
+mumbai   | [0xF76...F55](https://mumbai.polygonscan.com/address/0xF76656D311b8be898c609A992A7d22f653447F55#code)| 
+mumbai   | [0xF76...F55](https://mumbai.polygonscan.com/address/0xF76656D311b8be898c609A992A7d22f653447F55#code)| 
 
 
 # ERC1155
 
+For minting a randon NFT use table below then click method mint() it mint a random NFT for your wallet
+
+Testnet   | Explorers                     | 
+:-------- |:----------------------------- |
+mumbai   | [0xF76...F55](https://mumbai.polygonscan.com/address/0xF76656D311b8be898c609A992A7d22f653447F55#code)|
+mumbai   | [0xF76...F55](https://mumbai.polygonscan.com/address/0xF76656D311b8be898c609A992A7d22f653447F55#code)|
+mumbai   | [0xF76...F55](https://mumbai.polygonscan.com/address/0xF76656D311b8be898c609A992A7d22f653447F55#code)| 
+mumbai   | [0xF76...F55](https://mumbai.polygonscan.com/address/0xF76656D311b8be898c609A992A7d22f653447F55#code)| 
+mumbai   | [0xF76...F55](https://mumbai.polygonscan.com/address/0xF76656D311b8be898c609A992A7d22f653447F55#code)| 
 
 
 
